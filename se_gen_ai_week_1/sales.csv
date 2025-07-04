@@ -1,0 +1,11 @@
+OrderID,CustomerName,Product,Quantity,Price,City
+1001,John Doe,Laptop,1,75000,Chennai
+1002,Jane Smith,Smartphone,2,30000,Bangalore
+1003,Alex Johnson,Tablet,3,15000,Hyderabad
+1004,Mary Williams,Headphones,5,2000,Chennai
+1005,David Brown,Laptop,1,80000,Bangalore
+1006,Linda Davis,Smartwatch,2,10000,Hyderabad
+1007,Michael Miller,Smartphone,1,35000,Chennai
+1008,Sarah Wilson,Tablet,2,18000,Bangalore
+1009,Chris Moore,Headphones,4,2500,Hyderabad
+1010,Karen Taylor,Laptop,1,70000,Chennai
